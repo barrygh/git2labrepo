@@ -31,6 +31,7 @@ public class MyList {
 		this.array = newArray;
 	}
 
+
 	/**
 	 * Removes the first element of the list.
 	 * You don't need to implement this fully, must have something that is a start
@@ -50,3 +51,4 @@ public class MyList {
 
 	}
 }
+
